@@ -3,8 +3,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="Locust_energyConsumption/cloudsim-3.0.3/examples"/>
 	<classpathentry kind="src" path="Locust_energyConsumption/cloudsim-3.0.3/sources"/>
-	<classpathentry kind="src" path="PhD/examples"/>
-	<classpathentry kind="src" path="PhD/sources"/>
 	<classpathentry kind="lib" path="Locust_energyConsumption/cloudsim-3.0.3/forms-1.3.0.jar"/>
 	<classpathentry kind="lib" path="Locust_energyConsumption/cloudsim-3.0.3/jars/cloudsim-3.0.3-sources.jar"/>
 	<classpathentry kind="lib" path="Locust_energyConsumption/cloudsim-3.0.3/jars/cloudsim-3.0.3.jar"/>
