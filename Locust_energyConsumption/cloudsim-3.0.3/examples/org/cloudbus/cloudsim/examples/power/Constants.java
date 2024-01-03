@@ -38,7 +38,7 @@ public class Constants {
 	public static int rep_no=1;//  repeating the algorithm to print it into excel sheet for getting the average of the random VMs (LACE algo.)  
 	public static int rep_counter=1; 
 	// to save the number of the repetitions 
-	public final static String output_power_file_directory="D://number of migration .xls";
+	public final static String output_power_file_directory="C://number of migration .xls";
 	public final static boolean ENABLE_OUTPUT = true;
 	public final static boolean OUTPUT_CSV    = false;
 

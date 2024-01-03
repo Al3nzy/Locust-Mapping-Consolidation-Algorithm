@@ -37,7 +37,7 @@ public class PowerVmAllocation_LACE extends Locust_GlobalMigration_LACE {
 
 	/** The utilization threshold. */
 	private double utilizationThreshold = 0.8;
-	private static double alpha=0.9;
+	private static double alpha=1.0;
 
 	/**
 	 * Instantiates a new power vm allocation policy migration mad.

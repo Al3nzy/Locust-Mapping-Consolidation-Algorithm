@@ -40,7 +40,7 @@ public class Lou_Algo {
 		boolean outputToFile = false;
 		String inputFolder = Lou_Algo.class.getClassLoader().getResource("workload/planetlab").getPath();
 		String outputFolder = "output";
-		String workload = "20110303"; // PlanetLab workload (No. of Vms for 20110303 is 1052 VMs, i.e. 1052 files inside 20110303. and each file contents an interval of utilization masured every 5 mins for a day (24h) and the day has 288 of 5 mins)
+		String workload = "20110322"; // PlanetLab workload (No. of Vms for 20110303 is 1052 VMs, i.e. 1052 files inside 20110303. and each file contents an interval of utilization masured every 5 mins for a day (24h) and the day has 288 of 5 mins)
 		String vmAllocationPolicy = "LACE"; // 
 		String vmSelectionPolicy = "mu";
 		String parameter = "0.8";
